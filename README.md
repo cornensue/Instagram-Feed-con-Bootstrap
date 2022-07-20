@@ -3,4 +3,4 @@
 
 ### Crea un sitio web que se vea exactamente como este: 
 
-![sitelikethis](/workspace/Instagram-Feed-con-Bootstrap/images/md/instagram_feed_bootstrap_grid.png)
+![sitelikethis](images/md/instagram_feed_bootstrap_grid.png)
